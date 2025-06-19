@@ -1,10 +1,10 @@
-*💧 Water Quality Prediction*
+*💧 Water Quality Prediction* -
 This repository contains a machine learning project developed during a one-month  AICTE Virtual Internship sponsored by Shell in June 2025., focused on predicting key water quality parameters using a multi-output regression approach. The model is built using MultiOutputRegressor with RandomForestRegressor and is evaluated using standard regression metrics.
 
-📌 Project Objective
+📌 Project Objective -
 The objective of this project is to develop a predictive model that can estimate multiple water quality indicators simultaneously. This aids in environmental monitoring, water treatment planning, and ensuring water safety for various use cases.
 
-🧪 Predicted Parameters
+🧪 Predicted Parameters -
 The model predicts the following water quality parameters:
 
 NH₄ (Ammonium)
@@ -26,7 +26,7 @@ PO₄ (Phosphate)
 Cl⁻ (Chloride)
 
 ⚙️ Technologies & Tools Used
-Python
+Python -
 
 Pandas & NumPy – Data handling
 
@@ -34,7 +34,7 @@ Scikit-learn – Modeling and evaluation
 
 Jupyter Notebook – Experimentation and analysis
 
-🧠 Model Architecture
+🧠 Model Architecture -
 The project uses a MultiOutput Regression pipeline.
 
 Model: MultiOutputRegressor wrapped around RandomForestRegressor
@@ -49,7 +49,7 @@ Model Building – Training the multi-output regression model.
 
 Evaluation – Using multiple regression metrics to assess model performance.
 
-📐 Evaluation Metrics
+📐 Evaluation Metrics -
 Each output parameter is evaluated using:
 
 Mean Absolute Error (MAE)
@@ -63,17 +63,6 @@ These metrics help understand the prediction accuracy and variance explained by 
 📅 Internship Summary
 Duration: 1 Month
 
-Activities:
-
-Collected and cleaned water quality data.
-
-Performed Exploratory Data Analysis (EDA).
-
-Built and trained a MultiOutput Random Forest model.
-
-Evaluated model using regression metrics.
-
-Documented findings and model performance.
 
 
 

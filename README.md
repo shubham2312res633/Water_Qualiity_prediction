@@ -33,7 +33,7 @@ Pandas & NumPy – Data handling
 Scikit-learn – Modeling and evaluation
 
 Jupyter Notebook – Experimentation and analysis
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Model Architecture -
 The project uses a MultiOutput Regression pipeline.
 
@@ -48,7 +48,7 @@ Feature Engineering – Selecting relevant features using correlation and domain
 Model Building – Training the multi-output regression model.
 
 Evaluation – Using multiple regression metrics to assess model performance.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📐 Evaluation Metrics -
 Each output parameter is evaluated using:
 
@@ -60,8 +60,13 @@ R² Score
 
 These metrics help understand the prediction accuracy and variance explained by the model.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📅 Internship Summary
-Duration: 1 Month
+
+Internship Details
+Internship Type: AICTE Virtual Internship - Edunet Foundation
+Sponsor: Shell
+Duration: June 2025 (1 month)
+Focus Area: Machine Learning in Environmental Monitoring
+
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 

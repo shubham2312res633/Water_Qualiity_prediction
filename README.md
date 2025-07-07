@@ -61,10 +61,14 @@ R² Score
 These metrics help understand the prediction accuracy and variance explained by the model.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Internship Details
+Internship Details:-
+
 Internship Type: AICTE Virtual Internship - Edunet Foundation
+
 Sponsor: Shell
+
 Duration: June 2025 (1 month)
+
 Focus Area: Machine Learning in Environmental Monitoring
 
 

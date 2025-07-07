@@ -63,9 +63,9 @@ These metrics help understand the prediction accuracy and variance explained by 
 📅 Internship Summary
 Duration: 1 Month
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-
+Model link - https://drive.google.com/file/d/1Ca_Ml5gWZE4H-Oe2whGuV9hGixwlKH3m/view?usp=sharing
 
 
 
